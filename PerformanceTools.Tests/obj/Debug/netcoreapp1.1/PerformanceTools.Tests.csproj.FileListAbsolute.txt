@@ -1,0 +1,14 @@
+C:\Dev\NETCore\PerformanceTools\PerformanceTools.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Dev\NETCore\PerformanceTools\PerformanceTools.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Dev\NETCore\PerformanceTools\PerformanceTools.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Dev\NETCore\PerformanceTools\PerformanceTools.Tests\bin\Debug\netcoreapp1.1\PerformanceTools.Tests.deps.json
+C:\Dev\NETCore\PerformanceTools\PerformanceTools.Tests\bin\Debug\netcoreapp1.1\PerformanceTools.Tests.runtimeconfig.json
+C:\Dev\NETCore\PerformanceTools\PerformanceTools.Tests\bin\Debug\netcoreapp1.1\PerformanceTools.Tests.runtimeconfig.dev.json
+C:\Dev\NETCore\PerformanceTools\PerformanceTools.Tests\bin\Debug\netcoreapp1.1\PerformanceTools.Tests.dll
+C:\Dev\NETCore\PerformanceTools\PerformanceTools.Tests\bin\Debug\netcoreapp1.1\PerformanceTools.Tests.pdb
+C:\Dev\NETCore\PerformanceTools\PerformanceTools.Tests\obj\Debug\netcoreapp1.1\PerformanceTools.Tests.csprojResolveAssemblyReference.cache
+C:\Dev\NETCore\PerformanceTools\PerformanceTools.Tests\obj\Debug\netcoreapp1.1\PerformanceTools.Tests.AssemblyInfo.cs
+C:\Dev\NETCore\PerformanceTools\PerformanceTools.Tests\obj\Debug\netcoreapp1.1\PerformanceTools.Tests.dll
+C:\Dev\NETCore\PerformanceTools\PerformanceTools.Tests\obj\Debug\netcoreapp1.1\PerformanceTools.Tests.pdb
+C:\Dev\NETCore\PerformanceTools\PerformanceTools.Tests\bin\Debug\netcoreapp1.1\PerformanceTools.dll
+C:\Dev\NETCore\PerformanceTools\PerformanceTools.Tests\bin\Debug\netcoreapp1.1\PerformanceTools.pdb

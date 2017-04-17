@@ -1,0 +1,7 @@
+C:\Dev\NETCore\PerformanceTools\PerformanceTools\bin\Debug\netcoreapp1.1\PerformanceTools.deps.json
+C:\Dev\NETCore\PerformanceTools\PerformanceTools\bin\Debug\netcoreapp1.1\PerformanceTools.dll
+C:\Dev\NETCore\PerformanceTools\PerformanceTools\bin\Debug\netcoreapp1.1\PerformanceTools.pdb
+C:\Dev\NETCore\PerformanceTools\PerformanceTools\obj\Debug\netcoreapp1.1\PerformanceTools.csprojResolveAssemblyReference.cache
+C:\Dev\NETCore\PerformanceTools\PerformanceTools\obj\Debug\netcoreapp1.1\PerformanceTools.AssemblyInfo.cs
+C:\Dev\NETCore\PerformanceTools\PerformanceTools\obj\Debug\netcoreapp1.1\PerformanceTools.dll
+C:\Dev\NETCore\PerformanceTools\PerformanceTools\obj\Debug\netcoreapp1.1\PerformanceTools.pdb
